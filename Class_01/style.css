@@ -1,5 +1,9 @@
 body {background-color: #FFE000}
 
+body {border: 5px double black;}
+
+img {border: 5px double black;}
+   
 h1 {
   animation-duration: 3s;
   animation-name: slidein;
